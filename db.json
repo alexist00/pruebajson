@@ -1,0 +1,24 @@
+{
+    "posts": [
+	{
+		"name": "Elaine Woodward",
+		"text": "interdum enim non nisi. Aenean eget metus. In nec orci."
+	},
+	{
+		"name": "Yael Bruce",
+		"text": "lectus quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc"
+	},
+	{
+		"name": "Malachi Burt",
+		"text": "faucibus ut, nulla. Cras eu tellus eu augue porttitor interdum."
+	},
+	{
+		"name": "Colton Graves",
+		"text": "nunc, ullamcorper eu, euismod ac, fermentum vel, mauris. Integer sem"
+	},
+	{
+		"name": "Jorden Reese",
+		"text": "at fringilla purus mauris a nunc. In at pede. Cras"
+	}
+]
+}
